@@ -19,4 +19,4 @@ subjects=(2001374 2153069 2217181 2239002 2278937 2306922 2323916 2336732 233799
 no_of_subjects=`expr ${#subjects[@]} - 1`
 
 sessions=(T0 T1)
-no_of_subjects=`expr ${#sessions[@]} - 1`
+no_of_sessions=`expr ${#sessions[@]} - 1`
